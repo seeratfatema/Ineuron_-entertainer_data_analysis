@@ -18,12 +18,12 @@ MS Excel,
 Power bi
 
 ## Visualisations Include:
-Home Page
-Entertainer's Profile
-Awards
-Gender & Occupation
-Nominations VS Awards
-Movies Done
+Home Page,
+Entertainer's Profile,
+Awards,
+Gender & Occupation,
+Nominations VS Awards,
+Movies Done,
 
 ## Home Page:
 ![Screenshot (18)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/627419db-bdfe-43b6-80ba-64ac3e789462)
