@@ -6,10 +6,10 @@ My name is Seerat Fatema,Business intelligence  intern at iNeuron.ai. My project
 Given dataset:https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n?usp=sharing
 I have combined them all and make one seperate file with some additional information to make analysis and dashboards.
 
-## Objective 🎯
+## Objective 
 Analyzing details about the entertainers by populating data and creating a dashboard in PowerBi
 
-## Problem statement ❓
+## Problem statement
 
 Normal life can be stressful, and people need to relax. Being entertained by others is a wonderful way to take some time out of life. It can reduce stress and make life's issues easier to face. The media and entertainment industry consists of film, television, radio and print. These segments include movies, TV shows, radio shows, news, music, newspapers, magazines, and books. Entertainment industry is a group of sub-industries devoted to entertainment. Entertainment industry is used to describe the mass media companies that control the distribution and manufacture of mass media entertainment.
 ## Tools Used:
@@ -26,7 +26,8 @@ Nominations VS Awards
 Movies Done
 
 ## Home Page:
-<img src="Downloads">
+<img src="Dow![Screenshot (17)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/4cacced6-2487-4634-8fd6-e48628e107b0)
+nloads">
 
 ## Entertainer's Profile:
 ## Awards:
