@@ -26,11 +26,20 @@ Nominations VS Awards
 Movies Done
 
 ## Home Page:
-![Screenshot (17)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/65556484-f9a0-43c8-a567-3cd1975f47e1)
-
+![Screenshot (18)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/627419db-bdfe-43b6-80ba-64ac3e789462)
 
 ## Entertainer's Profile:
+![Screenshot (17)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/90a804e6-4219-4fec-ad1f-8ca9e9247b06)
+
 ## Awards:
+![Screenshot (19)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/dcaf0c05-fd07-4f33-aa9e-0ac1fb67d3bd)
+
 ## Gender & Occupation:
+![Screenshot (20)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/e718e753-ad7b-4ed9-bc2f-8576ab637026)
+
 ## Nominations VS Awards:
+![Screenshot (21)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/9a74543c-12c9-4cad-b314-d815ee8d9bec)
+
 ## Movies Done:
+![Screenshot (22)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/e546f60c-338b-43cf-b43e-964ba47060ac)
+
