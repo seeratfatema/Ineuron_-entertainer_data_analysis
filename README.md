@@ -26,7 +26,7 @@ Nominations VS Awards
 Movies Done
 
 ## Home Page:
-<img src="https://github.com/Naveen-S6/Entertainers_Data_Analysis/blob/79de0381eb3e30d2a6740a6b19692dc13b7bbfb2/Documents/Architecture.png">
+<img src="Downloads">
 
 ## Entertainer's Profile:
 ## Awards:
