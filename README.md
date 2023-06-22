@@ -26,8 +26,8 @@ Nominations VS Awards
 Movies Done
 
 ## Home Page:
-<img src="Dow![Screenshot (17)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/4cacced6-2487-4634-8fd6-e48628e107b0)
-nloads">
+![Screenshot (17)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/65556484-f9a0-43c8-a567-3cd1975f47e1)
+
 
 ## Entertainer's Profile:
 ## Awards:
