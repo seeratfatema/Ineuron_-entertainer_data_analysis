@@ -43,3 +43,11 @@ Movies Done
 ## Movies Done:
 ![Screenshot (22)](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/e546f60c-338b-43cf-b43e-964ba47060ac)
 
+## Few Insights From The Report:
+Meryl Streep won highest number of Awards i.e 178.She has most number of Nominations too i.e 376
+Bob Hope won maximum number of Oscar i.e 5.
+Number of male entertainer> Number of female entertainer
+Most of the entertainer are Actor by profession
+2016 is the last major work of 29 entertainers.
+
+
