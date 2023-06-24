@@ -17,6 +17,8 @@ Normal life can be stressful, and people need to relax. Being entertained by oth
 MS Excel,
 Power bi
 
+## Atchitecture:
+
 ## Visualisations Include:
 -Home Page,
 Entertainer's Profile,
